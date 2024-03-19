@@ -1,5 +1,3 @@
-// registrationController.js
-
 const { calculateFee } = require('../models/registrationModel');
 
 function register(req, res) {
